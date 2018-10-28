@@ -1,0 +1,27 @@
+body {
+	background-color: #e0e0e0;
+	font-family: "Times New Roman", Arial, sans-serif;
+	font-size: 15px;
+	color: #323232;
+}
+
+h1 {
+	font-family: "Georgia", sans-serif;
+	color: #880000;
+}
+
+h4 {
+	font-family: "Georgia", sans-serif;
+	color: #880000;
+}
+
+a {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #440000;
+	font-size: 16px;
+	}
