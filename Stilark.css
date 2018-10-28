@@ -17,7 +17,7 @@ h4 {
 
 ul {
 	list-style-type: none;
-	margin: 0;
+	margin: 2px;
 	padding: 0;
 }
 
@@ -31,9 +31,9 @@ ul a {
 	text-decoration: none;
 	padding: 20px 40px;
 	border: 1px solid #444444;
-	background-color: #dddddd;
+	background-color: #999999;
 }
 
 ul a:hover{
-	color: #440000;
+	background-color: #880000;
 }
