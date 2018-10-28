@@ -17,19 +17,23 @@ h4 {
 
 ul {
 	list-style-type: none;
+	margin: none;
+	padding: none;
 }
 
 ul li {
 	display: inline;
 }
 
-a {
+ul a {
 	color: #000000;
 	font-weight: bold;
 	text-decoration: none;
+	padding: 20px 40px;
+	background-color: #aa4444;
 }
 
-a:hover{
+ul a:hover{
 	color: #440000;
 	font-size: 16px;
 	}
