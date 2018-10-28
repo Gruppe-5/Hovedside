@@ -17,8 +17,8 @@ h4 {
 
 ul {
 	list-style-type: none;
-	margin: none;
-	padding: 2px;
+	margin: 2px;
+	padding: none;
 }
 
 ul li {
