@@ -18,7 +18,7 @@ h4 {
 ul {
 	list-style-type: none;
 	margin: none;
-	padding: none;
+	padding: 2px;
 }
 
 ul li {
@@ -30,10 +30,9 @@ ul a {
 	font-weight: bold;
 	text-decoration: none;
 	padding: 20px 40px;
-	background-color: #aa4444;
+	background-color: #dddddd;
 }
 
 ul a:hover{
 	color: #440000;
-	font-size: 16px;
-	}
+}
