@@ -23,7 +23,9 @@ ul a {
 	color: #000000;
 	font-weight: bold;
 	text-decoration: none;
+	width: 150px;
 	padding: 20px 40px;
+	margin: 2px;
 	border: 1px solid #444444;
 	background-color: #999999;
 }
