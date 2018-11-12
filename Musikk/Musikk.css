@@ -1,0 +1,70 @@
+body {
+	font-family: "Georgia";
+}
+
+h1 {
+	color: #c0c0c0;
+	font-size: 40px;
+}
+
+.innpakning {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 90%;
+	margin: auto;
+	background-color: #000000;
+}
+
+.overskrift {
+	flex-basis: 100%;
+	height: 100px;
+	margin: 10px;
+	order: 1;
+	background-color: #00005f;
+	border-radius: 10px;
+	
+}
+
+.Link1 {
+	order: 2;
+	padding: 60px;
+	margin: 20px auto;
+	border-radius: 10px;
+	flex-basis: 35%;
+	background-color: #00005f;
+}
+
+.Link2 {
+	order: 3;
+	padding: 60px;
+	margin: 20px auto;
+	border-radius: 10px;
+	flex-basis: 35%;
+	background-color: #00005f;
+}
+
+.Link3 {
+	order: 4;
+	padding: 60px;
+	margin: 20px auto;
+	border-radius: 10px;
+	flex-basis: 35%;
+	background-color: #00005f;
+}
+
+.Link4 {
+	order: 4;
+	padding: 60px;
+	margin: 20px auto;
+	border-radius: 10px;
+	flex-basis: 35%;
+	background-color: #00005f;
+}
+
+a {
+	color: #c0c0c0;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 30px;
+}
