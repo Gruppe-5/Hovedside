@@ -29,6 +29,7 @@ h1 {
 .Bilde {
 	order: 2;
 	flex-basis: 100%;
+	color: #efefef;
 }
 
 img {
