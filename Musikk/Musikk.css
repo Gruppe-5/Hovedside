@@ -54,12 +54,19 @@ h1 {
 }
 
 .Link4 {
-	order: 4;
+	order: 5;
 	padding: 60px;
 	margin: 20px auto;
 	border-radius: 10px;
 	flex-basis: 35%;
 	background-color: #00005f;
+}
+
+.Bunntekst {
+	order: 6;
+	flex-basis: 100%;
+	font-size: 15px;
+	color: #5799fb;
 }
 
 a {
