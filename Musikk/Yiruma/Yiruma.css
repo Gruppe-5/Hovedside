@@ -37,13 +37,26 @@ img {
 	margin: auto;
 }
 
+.Hovedmeny {
+	order: 3;
+	background-color: #b0b0b0;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	flex-basis: 100%;
+}
+
+.Hovedmeny1 {
+	display: inline;
+}
+
 .Meny {
 	background-color: #efefef;
 	flex-basis: 200px;
 	margin: 10px;
 	padding: 10px;
 	border-radius: 10px;
-	order: 3;
+	order: 4;
 }
 
 ul {
@@ -57,7 +70,7 @@ ul {
 	margin: 15px;
 }
 
-ul a {
+.Meny1 {
 	display: block;
 	margin: 5px;
 	padding: 5px;
@@ -77,7 +90,7 @@ a {
 	margin: 10px;
 	padding: 10px;
 	border-radius: 10px;
-	order: 4;
+	order: 5;
 }
 
 .Bunntekst {
@@ -86,5 +99,5 @@ a {
 	margin: 10px;
 	padding: 10px;
 	border-radius: 10px;
-	order: 5;
+	order: 6;
 }
