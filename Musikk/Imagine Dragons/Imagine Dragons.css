@@ -65,6 +65,14 @@ ul {
 	padding: 0;
 }
 
+table, td {
+	border: 1px solid;
+}
+
+table {
+	border-collapse: collapse;
+}
+
 .Sangliste {
 	list-style-type: circle;
 	margin: 15px;
