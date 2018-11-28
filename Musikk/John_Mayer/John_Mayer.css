@@ -1,1 +1,103 @@
+body {
+	font-family: "Georgia";
+	background-color: #efefef;
+}
 
+h1 {
+	color: #000000;
+	font-size: 40px;
+}
+
+.Innpakning {
+	background-color: #000000;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 90%;
+	margin: auto;
+}
+
+.Overskrift {
+	background-color: #efefef;
+	flex-basis: 100%;
+	height: 100px;
+	margin: 10px;
+	border-radius: 10px;
+	order: 1;
+}
+
+.Bilde {
+	order: 2;
+	flex-basis: 100%;
+	color: #efefef;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+.Hovedmeny {
+	order: 3;
+	background-color: #b0b0b0;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	flex-basis: 100%;
+}
+
+.Hovedmeny1 {
+	display: inline;
+}
+
+.Meny {
+	background-color: #efefef;
+	flex-basis: 200px;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	order: 4;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.Sangliste {
+	list-style-type: circle;
+	margin: 15px;
+}
+
+.Meny1 {
+	display: block;
+	margin: 5px;
+	padding: 5px;
+	background-color: #666666;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+	color: #000000;
+}
+
+.Innhold {
+	background-color: #efefef;
+	flex: 1;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	order: 5;
+}
+
+.Bunntekst {
+	background-color: #efefef;
+	flex-basis: 100%;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	order: 6;
+}
